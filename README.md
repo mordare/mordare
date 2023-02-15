@@ -1,7 +1,8 @@
 <h1 align="center">Welcome!</h1>
 <hr>
 <h3>Hello, I'm a developer, always looking for knowledge!</h3>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+
+![alt text](https://raw.githubusercontent.com/mordare/mordare/main/untitled.png?raw=true)
 
 <h3><em>My favorite languages:</em></h3>
 <blockquote>
