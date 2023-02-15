@@ -1,8 +1,6 @@
-<h1 align="center">Welcome!</h1>
-<hr>
-<h3>Hello, I'm a developer, always looking for knowledge!</h3>
+![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&animation=fadeIn&section=header&text=Welcome!,%20i%20am%20Mordare&fontSize=50&theme=tokyonight)
 
-![alt text](https://raw.githubusercontent.com/mordare/mordare/main/untitled.png?raw=true)
+<hr>
 
 <h3><em>My favorite languages:</em></h3>
 <blockquote>
