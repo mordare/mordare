@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Welcome!</h1>
+<hr>
+<h3>Hello, I'm a developer, always looking for knowledge!</h3>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
 
-<!--
-**mordare/mordare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><em>My favorite languages:</em></h3>
+<blockquote>
+  <ul>
+    <li><em>PHP</em></li>
+    <li><em>MYSQL</em></li>
+    <li><em>Assembly MIPS</em></li>
+  </ul>
+</blockquote>
+<h3><em>Other Hobbies:</em><h3>
+<ul>
+<li><h5>Professional in Unix/Linux systems</h5></li>
+</ul>
+</hr>
