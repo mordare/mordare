@@ -12,7 +12,7 @@
   </ul>
 </blockquote>
 
-<h3><em>Other Hobbies:</em><h3>
+<h3><em>Other Hobbies:</em></h3>
 <blockquote>
   <ul>
     <li>Professional in Unix/Linux systems</li>
