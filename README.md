@@ -15,5 +15,6 @@
 <h3><em>Other Hobbies:</em><h3>
 <ul>
 <li><h5>Professional in Unix/Linux systems</h5></li>
+  <li><h5>Newbie Hardware Hacking</h5></li>
 </ul>
 </hr>
